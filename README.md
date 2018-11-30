@@ -10,6 +10,7 @@ you a for your eyes only peak at the sordid underworld of `connect()` and
 
 ## Get situated with the codebase changes
 
+
 Now, we made some changes to the codebase, mainly to help this walkthrough a
 little easier to digest.  If you open up the file `shoppingListItemReducer` the
 first thing you'll see is that we added a new branch to our case statement. Our
